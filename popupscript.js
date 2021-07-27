@@ -1,10 +1,7 @@
 $(document).ready(function() {
     $(".js-popup-toggle").on('click', function() {
         $("body").toggleClass("popup-active");
-    });
-    
-    $(".js-popup-toggle").on('click', function() {
-        $("body").toggleClass("cta");
+        $("body").toggleClass("popup-active");
     });
 
     $(".cta").on('click', function() {
