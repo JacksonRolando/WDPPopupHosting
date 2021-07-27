@@ -26,7 +26,7 @@ img {
   height: calc(100% - 49px);
 }
 .popup-active .popup-form * {
-  opacity: .7;
+  opacity: 1;
 }
 .popup-active .popup-form {
   top: 0;
