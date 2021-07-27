@@ -11,7 +11,7 @@ img {
   transition: all 1s ease;
 }
 .popup .popup-container {
-  height: auto;
+  height: 80px;
 }
 
 .popup-active {
