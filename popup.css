@@ -70,7 +70,7 @@ img {
   background: #F65D7C;
   color: #fff;
   padding: 15px;
-  position: fixed;
+  position: absolute;
   cursor: pointer;
   bottom: 0;
   width: 100%;
