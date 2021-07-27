@@ -2,6 +2,10 @@ $(document).ready(function() {
     $(".js-popup-toggle").on('click', function() {
         $("body").toggleClass("popup-active");
     });
+    
+    $(".js-popup-toggle").on('click', function() {
+        $("body").toggleClass("cta");
+    });
 
     $(".cta").on('click', function() {
         $(this).removeClass("newsletter-attention");
