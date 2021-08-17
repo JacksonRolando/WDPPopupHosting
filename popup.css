@@ -57,7 +57,7 @@ img {
 .popup-close {
   display: inline-block;
   padding: 5px 10px;
-  background: #ffffff;
+  background: #000000;
   color: white;
   cursor: pointer;
   border-radius: 50%;
