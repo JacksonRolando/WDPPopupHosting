@@ -61,7 +61,7 @@ img {
   color: white;
   cursor: pointer;
   border-radius: 50%;
-  position: relative;
+  position: fixed;
   top: 100px;
   right: 15px;
 }
